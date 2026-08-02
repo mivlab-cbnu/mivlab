@@ -17,6 +17,8 @@ nav:
 - Sihyun Kim 
 - Minwoo Yoon 
 - Seonyo Lee 
+- Minchae Jung
+- Yoonseo Lee
 
 <!-- #### <center>We strive to build an inclusive environment for research and recognize the value of diversity in the process of scientific creativity and discovery.</center> -->
 

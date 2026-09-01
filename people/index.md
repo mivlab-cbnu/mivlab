@@ -13,7 +13,6 @@ nav:
 
 ### Undergraduate Intern
 
-- Seunghyun Im 
 - Sihyun Kim 
 - Minwoo Yoon 
 - Seonyo Lee 
@@ -40,7 +39,7 @@ nav:
  -->
 
 ### Undergraduate Intern
-
+- Seunghyun Im (26.3-26.8)
 - Seoyeon Kim (25.9-26.6)
 - Yohan Jang (25.9-26.2)
 - Dohee Kwon (25.3-26.2)
